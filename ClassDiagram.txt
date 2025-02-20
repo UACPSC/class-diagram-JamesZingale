@@ -1,1 +1,1 @@
-[Student|-age:UnlimitedNatural;-height:Real;-name: String;-classCount:integer;-graduated:Boolean|]
+[Student|-age:UnlimitedNatural;-height:Real;-name: String;-classCount:integer;-graduated:Boolean|+assignScore(:Integer):Boolean;-syncronizeData(test:Integer);#maxClasses():UnlimitedNatural;__+defaultData():string__]
